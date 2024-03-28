@@ -1,9 +1,10 @@
 /* Sass file */
 $col1: #FF0000;
 $col2: #00FF00;
+
 button {
-  color: $col1;
-  &:hover {
-    color: $col2;
-  }
+      color: $col1;
+      &:hover {
+           color: $col2;
+      }
 }
